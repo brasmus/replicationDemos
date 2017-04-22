@@ -1,0 +1,15 @@
+Package: replicationDemos
+Version: 1.13
+Date: August 27 2015
+Title:  replicationDemos
+Author: Rasmus E. Benestad <rasmus.benestad@physics.org>
+Maintainer: Rasmus E. Benestad <rasmus.benestad@physics.org>
+Depends: waveslim, lmtest, deSolve, R (>= 2.10)
+Suggests: ncdf, akima
+Description: A set of R-functions providing some demonstration of inappropriate methods, and hence shed light on why some claims made in the climate science literature are unconvincing. Hence, these demonstrations serve as a study in 'agnotology' (the study of how and why we do not know things). Most of the flaws exposed are breaches of common practice within statistics, and these demonstrations show why such breaches result in invalid results.
+License:  GPL (>= 2)
+URL: http://www.r-project.org http://cran.r-project.org
+ZipData: no 
+Packaged: 2012-03-19 16:06:52 UTC; rasmus
+LazyData: true
+
